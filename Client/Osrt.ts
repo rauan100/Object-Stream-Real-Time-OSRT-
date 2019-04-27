@@ -1,0 +1,6 @@
+class Osrt
+{
+    constructor () {
+        
+    }
+}
